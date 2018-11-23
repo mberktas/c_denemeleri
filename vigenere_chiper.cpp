@@ -1,4 +1,4 @@
-/* Vigenere Chiper
+/* Vigenere Cipher
  
  Kullanimi : 
     Lutfen sifrelemek istediginiz metini ve sifresini giriniz. 
